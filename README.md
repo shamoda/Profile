@@ -9,7 +9,7 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shamoda&show_icons=true&theme=radical)](https://github.com/shamoda)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shamoda&show_icons=true)](https://github.com/shamoda)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamoda&layout=compact)](https://github.com/shamoda)  
