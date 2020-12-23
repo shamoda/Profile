@@ -1,6 +1,5 @@
 ## Hello there, I'm Shamoda Jayasekara - [ceylon-dev][website] 👋
 
-<br />
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -9,8 +8,6 @@
 
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  -->
 > *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent web & mobile apps that improve the lives of those around me. I have done work in full stack web development, mobile app development and database management. Primarily I'm working with React JS, Spring Boot and Flutter. Take a look around to know more about me and the stuff I've worked on.*
-
-<br />
 
 
 ### Connect with me:
