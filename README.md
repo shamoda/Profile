@@ -1,6 +1,6 @@
 <br />
 
-## Hello there, I'm Shamoda Jayasekara - [ceylon-dev][website] 👋
+## Hello there, I'm Shamoda Jayasekara | [ceylon-dev][website] 👋
 
 
 ### I'm a Full-Stack Developer!!
