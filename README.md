@@ -5,7 +5,7 @@
 
 ### I'm a Full-Stack Developer!!
 
-> *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with Javascript frameworks to build awesome web, mobile and standalone applications. Take a look around to know more about me and the stuff I've worked on.*
+> *An enthusiastic full stack developer from Sri Lanka. Experienced in creating, configuring and maintaining infrastructure on AWS Cloud services including CloudFormation, CloudWatch, ELB, Route 53 and VPC. I'm passionate about building excellent highly available software solutions that improve the lives of those around me. Take a look around to know more about me and the stuff I've worked on.*
 
 <br />
 
